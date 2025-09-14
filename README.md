@@ -1,5 +1,7 @@
 S1 Fig. AUC learning curves for base models on TCGA data.
+
 S1 Table. CGGA clinical and genetic mutation data (uncoded).
+
 S2 Table. CGGA clinical and genetic mutation data (coded).
 S3 Table. TCGA clinical and genetic mutation data (uncoded).
 S4 Table. TCGA clinical and genetic mutation data (coded).
